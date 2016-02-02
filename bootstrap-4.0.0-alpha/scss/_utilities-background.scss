@@ -10,7 +10,7 @@
 }
 
 .bg-faded {
-  background-color: $gray-lightest;
+  background-color: purple;
 }
 
 @include bg-variant('.bg-primary', $brand-primary);
